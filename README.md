@@ -3,9 +3,10 @@
 Cybersecurity | Navy Cryptologic Veteran | Home lab tinkerer
 
 ## Quick links
-- Resume: `resume/WyattVaccaroResume.pdf`
+- [Resume (PDF)](`resume/vaccaroresume.pdf`)
+- [LinkedIn](https://linkedin.com/in/wyattvaccaro)
 - Contact: wyattvaccaro@gmail.com | LinkedIn: linkedin.com/in/wyattvaccaro
-- Live projects: `projects/`
+- [Projects](`projects/`)
 
 ## About
 I'm finishing a degree in cybersecurity and building hands-on projects that demonstrate networking, scripting, detection, and lab-forensics skills. This repo is an index of those projects and writeups.
