@@ -5,7 +5,7 @@ Cybersecurity | Navy Cryptologic Veteran | Home lab tinkerer
 ## Quick links
 - [Resume (PDF)](`resume/vaccaroresume.pdf`)
 - [LinkedIn](https://linkedin.com/in/wyattvaccaro)
-- Contact: wyattvaccaro@gmail.com | LinkedIn: linkedin.com/in/wyattvaccaro
+- Contact: wyattvaccaro@gmail.com
 - [Projects](`projects/`)
 
 ## About
