@@ -21,6 +21,3 @@ Each project folder includes:
 - `README.md` — project summary, lab topology, steps to reproduce
 - `code/` — scripts, dockerfiles, configs
 - `writeup.md` — lessons learned & resume-ready bullets
-
-## Resume & Contact
-Place your resume in `resume/` and update the contact info above.
