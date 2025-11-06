@@ -18,3 +18,10 @@ pfSense active for routing/filtering
 
 Discover -> Enumerate -> Analyze
 
+## nmap scans
+1. Ping sweep to discover live hosts (via Kali)
+    - Sending "are you alive" probes by ICMP across subnet to identify live IP's.
+    - Finds live targets rather than wasting time scanning potentially hundreds of offline targets.
+    ![alt text](image.png)
+2. 
+
